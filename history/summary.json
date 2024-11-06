@@ -4,19 +4,19 @@
     "url": "https://asotillo.com",
     "icon": "https://icons.duckduckgo.com/ip3/asotillo.com.ico",
     "slug": "asotillo-website",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 636,
-    "timeDay": 760,
-    "timeWeek": 875,
+    "timeDay": 802,
+    "timeWeek": 871,
     "timeMonth": 857,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2024-11-06": 0
+      "2024-11-06": 21
     }
   }
 ]
