@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 787,
-    "timeDay": 199,
-    "timeWeek": 278,
-    "timeMonth": 327,
-    "timeYear": 847,
+    "timeDay": 252,
+    "timeWeek": 282,
+    "timeMonth": 326,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2025-04-30": 22,
       "2025-04-28": 68,
@@ -24,5 +24,23 @@
       "2024-11-13": 16,
       "2024-11-06": 21
     }
+  },
+  {
+    "name": "club dartel",
+    "url": "https://clubdartel.cl",
+    "icon": "https://icons.duckduckgo.com/ip3/clubdartel.cl.ico",
+    "slug": "club-dartel",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1935,
+    "timeDay": 1935,
+    "timeWeek": 1935,
+    "timeMonth": 1935,
+    "timeYear": 1935,
+    "dailyMinutesDown": {}
   }
 ]
