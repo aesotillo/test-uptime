@@ -5,6 +5,8 @@ repo:  test-uptime # The name of this repository
 sites:
   - name: asotillo website
     url: https://asotillo.com
+  - name: club dartel
+    url: https://clubdartel.cl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
