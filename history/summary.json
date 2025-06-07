@@ -48,19 +48,19 @@
     "url": "https://erp.thefamily.dev/authentication/login",
     "icon": "https://icons.duckduckgo.com/ip3/erp.thefamily.dev.ico",
     "slug": "erp",
-    "status": "down",
-    "uptime": "85.27%",
-    "uptimeDay": "85.27%",
-    "uptimeWeek": "85.27%",
-    "uptimeMonth": "85.27%",
-    "uptimeYear": "85.27%",
-    "time": 247,
-    "timeDay": 247,
-    "timeWeek": 247,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "status": "up",
+    "uptime": "75.41%",
+    "uptimeDay": "75.41%",
+    "uptimeWeek": "75.41%",
+    "uptimeMonth": "75.41%",
+    "uptimeYear": "75.41%",
+    "time": 246,
+    "timeDay": 246,
+    "timeWeek": 246,
+    "timeMonth": 246,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-06-07": 117
+      "2025-06-07": 221
     }
   }
 ]
