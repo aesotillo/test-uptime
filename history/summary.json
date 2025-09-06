@@ -30,18 +30,20 @@
     "url": "https://tuhogarfeliz.cl",
     "icon": "https://icons.duckduckgo.com/ip3/tuhogarfeliz.cl.ico",
     "slug": "tuhogarfeliz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 333,
-    "timeDay": 348,
-    "timeWeek": 301,
-    "timeMonth": 395,
-    "timeYear": 333,
-    "dailyMinutesDown": {}
+    "time": 578,
+    "timeDay": 10141,
+    "timeWeek": 2755,
+    "timeMonth": 1006,
+    "timeYear": 578,
+    "dailyMinutesDown": {
+      "2025-09-06": 0
+    }
   },
   {
     "name": "club dartel",
