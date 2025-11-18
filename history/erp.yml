@@ -1,7 +1,7 @@
 url: https://erp.thefamily.dev/authentication/login
-status: down
-code: 500
-responseTime: 152
-lastUpdated: 2025-11-18T11:48:15.888Z
+status: up
+code: 200
+responseTime: 224
+lastUpdated: 2025-11-18T12:21:29.330Z
 startTime: 2025-06-06T22:40:10.120Z
 generator: Upptime <https://github.com/upptime/upptime>
